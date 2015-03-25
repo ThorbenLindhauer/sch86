@@ -1,0 +1,13 @@
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "dependencies": {
+    "lodash": "^3.1.0",
+    "nunjucks": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-copy": "~0.8.0"
+  }
+}
+

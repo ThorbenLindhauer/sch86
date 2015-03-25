@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block body %}
+  <div class="menu">
+    <img class="banner" src="/img/logo.png" alt="Banner"/>
+    <img class="banner" src="/img/wide_bg.png" alt="Banner"/>
+    <ul>
+      <li><a href="/">Start</a></li>
+      <li><a href="/2014-2015">Saison 2014/2015</a></li>
+      <li><a href="/2015-2016">Saison 2015/2016</a></li>
+    </ul>
+    {% block menu %}{% endblock %}
+  </div>
+  <div class="content">
+    {% block header %}{% endblock %}
+    {% block content %}{% endblock %}
+  </div>
+  <div class="sidebar">
+    {% block sidebar %}{% endblock %}
+  </div>
+{% endblock %}
