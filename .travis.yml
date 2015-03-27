@@ -1,0 +1,11 @@
+language: node_js
+node_js: '0.10'
+env:
+  global:
+  - secure: Gq1VbETkaWr6ExI3XYfch84orxpKg9iVqbi9zCdqEUJEZR1/bWXVV0yftbd+9tz2PJc1TR1N75P4YqBHNNgxOhLjIca+/Iq3s7zfet9simkbz94G2T0LjZvOMmK2T0weW2QymISWb8TwZ9XDvyfqJLSi6F4u1w64OyO9CH5S4ys=
+  - secure: qP6lPT0jjq7+BXan3apm7LcZQCmZOtLXWArBaviiV5SllqQRua9Wi2ybi/qfBWWXAtQyEN4c1KetUJDChGcgAgCNyMfn4MhFuzx3mk2RU4Dc+/6w+4oUJeskHQe5W6xFue0tno/u67ZPHk9BUyn1XccGYV9RLukMGBaYX6TsGe8=
+  - secure: D0vU/+VuqeEHemKtuE34ELgyrkOiXU0PUJeVlqJhvwtLHRMJgzSpK0aDEepP8WNdQC3vmu+cutNAPMFvQQjv4aBMVVnFFKso0SnwBscxHTXBVOHE951Cak747GFH8Wsx5tV1Iz6OeMFoZCp/kLZybNoPqIQCzqQawisi8Xfg1Do=
+before_install: npm install -g grunt-cli
+install: npm install
+before_script: grunt build
+after_success: curl --ftp-create-dirs -T dist -u $FTP_USER:$FTP_PASSWORD $FTP_URL
