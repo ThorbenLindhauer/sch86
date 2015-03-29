@@ -15,14 +15,14 @@ module.exports = function(druck) {
     
     locals: {
       site: {
-        title: 'SC Hiltrup 86'
+        title: 'SC Hiltrup 87'
       }
     }
   });
 
 
 
-  var posts = druck.files('posts/*');
+  var posts = druck.files('posts/**/*');
   var posts2015 = filters.between(posts, new Date('2015-07-01'), new Date('2016-07-01'));
 
   druck.generate({
