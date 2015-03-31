@@ -4,7 +4,9 @@
   "dependencies": {
     "lodash": "^3.1.0",
     "nunjucks": "^1.2.0",
-    "kartoffeldruck": "0.2.2"
+    "kartoffeldruck": "0.2.2",
+    "moment": "^2.9.0",
+    "moment-timezone": "^0.3.1"
   },
   "devDependencies": {
     "grunt": "~0.4.5",

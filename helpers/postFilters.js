@@ -6,8 +6,13 @@ module.exports = {
   */
   between: function(posts, beginning, ending) {
     return select(posts, function(p) {
-      postDate = new Date(p.date);
-      return postDate >= beginning && postDate < ending;
+      return p.date >= beginning && p.date < ending;
+    });
+  },
+
+  youngerThan: function(posts, date) {
+    return select(posts, function(p) {
+      return p.date >= date;
     });
   }
 }

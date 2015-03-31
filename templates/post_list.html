@@ -3,6 +3,9 @@
 {% block content %}
   {% for item in items %}
     <div class="item">
+      <div class="item-header">
+        {{ formatDate(item.date) }}
+      </div>
       <h1><a href="{{ relative(item.name) }}">{{ item.title }}</a></h1>
 
       {{ render(item) }}

@@ -2,6 +2,8 @@ var forEach = require('lodash/collection/forEach');
 var sortBy = require('lodash/collection/sortBy');
 var sortings = require('./helpers/postSortings');
 var filters = require('./helpers/postFilters');
+var formatter = require('./helpers/formatter');
+var moment = require('moment');
 
 module.exports = function(druck) {
 
@@ -16,13 +18,22 @@ module.exports = function(druck) {
     locals: {
       site: {
         title: 'SC Hiltrup 87'
-      }
+      },
+      formatDate: formatter.formatDate
     }
   });
 
 
 
   var posts = druck.files('posts/**/*');
+  posts.forEach(function(p) {
+    p.date = moment(p.date);
+  });
+
+  
+  var filterDate = new Date();
+  filterDate.setHours(filterDate.getHours() + 24 * 30);
+  var recentPosts = filters.youngerThan(posts, filterDate);
   var posts2015 = filters.between(posts, new Date('2015-07-01'), new Date('2016-07-01'));
 
   druck.generate({
@@ -33,7 +44,7 @@ module.exports = function(druck) {
   druck.generate({
     source: 'index.html',
     dest: 'index.html',
-    locals: { items: sortings.byDate(posts2015) },
+    locals: { items: sortings.byDate(recentPosts) },
     paginate: 5
   });
   // extract tags
