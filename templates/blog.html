@@ -8,11 +8,21 @@
     <ul>
       <li><a href="{{ relative('') }}">Start</a>
         {% if menu == 'start' %}
-          {% include 'menu-start.html' if not missing %}
+          {% include 'menu/menu-start.html' %}
         {% endif %}
       </li>
-      <li><a href="{{ relative('2014-2015') }}">Saison 2014/2015</a></li>
-      <li><a href="{{ relative('2015-2016') }}">Saison 2015/2016</a></li>
+      <li>
+        <a href="{{ relative('static/verein') }}">Der Verein</a>
+        {% if menu == 'verein' %}
+          {% include 'menu/menu-verein.html' %}
+        {% endif %}
+      </li>
+      <li>
+        <a href="{{ relative('static/archiv') }}">Archiv</a>
+        {% if menu == 'archiv' %}
+          {% include 'menu/menu-archiv.html' %}
+        {% endif %}
+      </li>
     </ul>
     {% block menu %}{% endblock %}
   </div>

@@ -23,24 +23,31 @@ module.exports = function(druck) {
     }
   });
 
+  // render static pages
+  var staticPages = druck.files('static/**/*');
+  druck.generate({
+    source: staticPages,
+    dest: ':name/index.html'
+  });
 
-
+  // preprocess blog posts
   var posts = druck.files('posts/**/*');
   posts.forEach(function(p) {
     p.date = moment(p.date);
   });
 
-  
   var filterDate = new Date();
   filterDate.setHours(filterDate.getHours() + 24 * 30);
   var recentPosts = filters.youngerThan(posts, filterDate);
   var posts2015 = filters.between(posts, new Date('2015-07-01'), new Date('2016-07-01'));
 
+  // generate all posts
   druck.generate({
     source: posts,
     dest: ':name/index.html'
   });
 
+  // front page
   druck.generate({
     source: 'index.html',
     dest: 'index.html',
@@ -49,6 +56,7 @@ module.exports = function(druck) {
       menu: 'start'},
     paginate: 5
   });
+
   // extract tags
   var tagged = {};
 
@@ -59,6 +67,7 @@ module.exports = function(druck) {
     });
   });
 
+  // tage pages
   forEach(tagged, function(t) {
     druck.generate({
       source: '_tagged.html',
