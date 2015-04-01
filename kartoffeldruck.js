@@ -44,7 +44,9 @@ module.exports = function(druck) {
   druck.generate({
     source: 'index.html',
     dest: 'index.html',
-    locals: { items: sortings.byDate(recentPosts) },
+    locals: { 
+      items: sortings.byDate(recentPosts),
+      menu: 'start'},
     paginate: 5
   });
   // extract tags

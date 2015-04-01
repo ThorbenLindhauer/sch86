@@ -6,7 +6,11 @@
     <h1>SC Hiltrup 86</h1>
     <img class="banner" src="{{ relative('img/wide_bg.png') }}" alt="Banner"/>
     <ul>
-      <li><a href="{{ relative('') }}">Start</a></li>
+      <li><a href="{{ relative('') }}">Start</a>
+        {% if menu == 'start' %}
+          {% include 'menu-start.html' if not missing %}
+        {% endif %}
+      </li>
       <li><a href="{{ relative('2014-2015') }}">Saison 2014/2015</a></li>
       <li><a href="{{ relative('2015-2016') }}">Saison 2015/2016</a></li>
     </ul>
