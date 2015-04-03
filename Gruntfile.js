@@ -1,13 +1,37 @@
 module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-contrib-watch');
+
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     copy: {
       files: {
         cwd: 'img/',
         src: '**/*',
-        dest: 'dist/img/', 
+        dest: 'dist/assets/img/', 
         expand: true
+      }
+    },
+    less:  {
+      development: {
+        options: {
+          compress: true,
+          yuicompress: true,
+          optimization: 2
+        },
+        files: {
+          "dist/assets/css/main.css": "css/main.less"
+        }
+      }
+    },
+    watch: {
+      styles: {
+        files: ['css/**/*.less'],
+        tasks: ['less'],
+        options: {
+          nospawn: true
+        }
       }
     }
   });
@@ -23,7 +47,11 @@ module.exports = function(grunt) {
 
   grunt.registerTask('build', function(target) {
     grunt.task.run('kartoffeldruck');
+    grunt.task.run('less');
     grunt.task.run('copy');
   });
+
+  grunt.registerTask('auto-build', ['watch']);
+
 }
 
