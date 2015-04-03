@@ -1,11 +1,13 @@
 {% extends "base.html" %}
 
 {% block body %}
+  <div class="banner">
+    <img src="{{ relative('assets/img/logo.png') }}" alt="Banner"/>
+    <h1>SC Hiltrup 86</h1>
+    <img src="{{ relative('assets/img/wide_bg.png') }}" alt="Banner"/>
+  </div>
   <div class="menu">
-    <img class="banner" src="{{ relative('assets/img/logo.png') }}" alt="Banner"/>
-    <h1 class="banner-title">SC Hiltrup 86</h1>
-    <img class="banner" src="{{ relative('assets/img/wide_bg.png') }}" alt="Banner"/>
-    <ul>
+    <ul class="menu-1">
       <li><a href="{{ relative('') }}">Start</a>
         {% if menu == 'start' %}
           {% include 'menu/menu-start.html' %}
