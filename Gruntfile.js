@@ -7,7 +7,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     copy: {
       files: {
-        cwd: 'img/',
+        cwd: 'assets/img/',
         src: '**/*',
         dest: 'dist/assets/img/', 
         expand: true
@@ -21,7 +21,7 @@ module.exports = function(grunt) {
           optimization: 2
         },
         files: {
-          "dist/assets/css/main.css": "css/main.less"
+          "dist/assets/css/main.css": "assets/css/main.less"
         }
       }
     },

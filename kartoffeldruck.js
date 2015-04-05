@@ -41,7 +41,7 @@ module.exports = function(druck) {
   });
 
   var filterDate = new Date();
-  filterDate.setHours(filterDate.getHours() + 24 * 30);
+  filterDate.setHours(filterDate.getHours() - 24 * 30);
   var recentPosts = filters.youngerThan(posts, filterDate);
   var posts2015 = filters.between(posts, new Date('2015-07-01'), new Date('2016-07-01'));
 
