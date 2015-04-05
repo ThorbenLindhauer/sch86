@@ -16,9 +16,6 @@ module.exports = function(druck) {
     templates: 'templates',
     
     locals: {
-      site: {
-        title: 'SC Hiltrup 87'
-      },
       formatDate: formatter.formatDate
     }
   });
