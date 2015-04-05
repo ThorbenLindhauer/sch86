@@ -4,6 +4,13 @@ var sortings = require('./helpers/postSortings');
 var filters = require('./helpers/postFilters');
 var formatter = require('./helpers/formatter');
 var moment = require('moment');
+moment.locale('de');
+
+
+var tagMenus = {
+  "erste": "verein",
+  "zweite": "verein"
+};
 
 module.exports = function(druck) {
 
@@ -47,11 +54,11 @@ module.exports = function(druck) {
   // front page
   druck.generate({
     source: 'index.html',
-    dest: 'index.html',
+    dest: ':page/index.html',
     locals: { 
       items: sortings.byDate(recentPosts),
       menu: 'start'},
-    paginate: 5
+    paginate: 5 
   });
 
   // extract tags
@@ -69,7 +76,7 @@ module.exports = function(druck) {
     druck.generate({
       source: '_tagged.html',
       dest: ':tag/:page/index.html',
-      locals: {tag: t.tag, items: sortings.byDate(t.items)},
+      locals: {tag: t.tag, items: sortings.byDate(t.items), menu: tagMenus[t.tag]},
       paginate: 5
     });
   });
