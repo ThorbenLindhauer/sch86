@@ -15,6 +15,8 @@ Eine Teilüberschrift
 
 Und hier geht der Text weiter
 
+<!-- continue -->
+
 ### Eine kleinere Teilüberschrift
 
 Und noch mehr Text. Nun fügen wir ein Bild ein:

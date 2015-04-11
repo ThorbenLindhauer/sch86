@@ -3,7 +3,7 @@
 {% block content %}
 <div class="post">
   <div class="post-header">
-    {{ formatDate(date) }} - {{ author }}
+    {{ date | formatDate }} - {{ author }}
   </div>
   <h1>{{ title }}</h1>
 

@@ -3,6 +3,7 @@ var sortBy = require('lodash/collection/sortBy');
 var sortings = require('./helpers/postSortings');
 var filters = require('./helpers/postFilters');
 var formatter = require('./helpers/formatter');
+var excerpt = require('./helpers/excerpt');
 var moment = require('moment');
 moment.locale('de');
 
@@ -20,12 +21,12 @@ module.exports = function(druck) {
   druck.init({
     source: 'pages',
     dest: 'dist',
-    templates: 'templates',
-    
-    locals: {
-      formatDate: formatter.formatDate
-    }
+    templates: 'templates'
   });
+
+  var nunjucks = druck.config.nunjucks;
+  nunjucks.addFilter('formatDate', formatter.formatDate);
+  nunjucks.addFilter('excerpt', excerpt);
 
   // render static pages
   var staticPages = druck.files('static/**/*');
