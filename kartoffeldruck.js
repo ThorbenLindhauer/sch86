@@ -9,8 +9,8 @@ moment.locale('de');
 
 
 var tagMenus = {
-  "erste": "verein",
-  "zweite": "verein"
+  "Erste": "verein",
+  "Zweite": "verein"
 };
 
 module.exports = function(druck) {
@@ -55,11 +55,13 @@ module.exports = function(druck) {
   // front page
   druck.generate({
     source: 'index.html',
-    dest: ':page/index.html',
+    //dest: ':page/index.html',
+    dest: 'index.html',
     locals: { 
       items: sortings.byDate(recentPosts),
-      menu: 'start'},
-    paginate: 5 
+      menu: 'start'
+    }
+    //paginate: 5 
   });
 
   // extract tags
