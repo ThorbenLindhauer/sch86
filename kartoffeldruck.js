@@ -78,7 +78,7 @@ module.exports = function(druck) {
   forEach(tagged, function(t) {
     druck.generate({
       source: '_tagged.html',
-      dest: ':tag/:page/index.html',
+      dest: 'tags/:tag/:page/index.html',
       locals: {tag: t.tag, items: sortings.byDate(t.items), menu: tagMenus[t.tag]},
       paginate: 5
     });

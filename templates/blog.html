@@ -24,7 +24,13 @@
         {% if menu == 'archiv' %}
           {% include 'menu/menu-archiv.html' %}
         {% endif %}
-      </li>
+      </li>          
+      <li>
+        <a href="{{ relative('static/links') }}">Links</a>
+      </li>          
+      <li>
+        <a href="{{ relative('static/impressum') }}">Impressum</a>
+      </li>          
     </ul>
     {% block menu %}{% endblock %}
   </div>

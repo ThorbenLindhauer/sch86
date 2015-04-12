@@ -14,7 +14,7 @@
     <h4>Tags:</h4>
     <ul>
       {% for tag in tags %}
-        <li><a href="{{ relative(tag) }}">{{ tag }}</a></li>
+        <li><a href="{{ relative('tags/' + tag) }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </div>
