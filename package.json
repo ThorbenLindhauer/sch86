@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "lodash": "^3.1.0",
-    "kartoffeldruck": "0.2.2",
+    "kartoffeldruck": "0.2.3",
     "moment": "^2.9.0",
     "moment-timezone": "^0.3.1"
   },

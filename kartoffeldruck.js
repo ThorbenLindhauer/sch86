@@ -55,13 +55,13 @@ module.exports = function(druck) {
   // front page
   druck.generate({
     source: 'index.html',
-    //dest: ':page/index.html',
+    dest: ':page/index.html',
     dest: 'index.html',
     locals: { 
       items: sortings.byDate(recentPosts),
       menu: 'start'
-    }
-    //paginate: 5 
+    },
+    paginate: 5 
   });
 
   // extract tags
