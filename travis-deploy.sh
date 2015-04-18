@@ -20,7 +20,7 @@ cd $DIST_REPO_DIR
 git add -A
 git status -s
 
-git commit -m "generate site from ${SOURCE_REPO_NAME}\@${SOURCE_COMMIT}"
+git commit -m "generate site from ${SOURCE_REPO_NAME}@${SOURCE_COMMIT}"
 git push origin master
 ../$GIT_FTP_DIR/git-ftp push -n -u $FTP_USER -p $FTP_PASSWORD $FTP_URL
 
