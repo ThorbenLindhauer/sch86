@@ -2,10 +2,11 @@ language: node_js
 node_js: '0.10'
 env:
   global:
-  - secure: D630aiUdo8NOEH3zkQ2UASm8augEctv9wyvHXKVFfA93xHEvNmtyrpQo4li6dIGAbH58j2Wzc3E6WegPzWPqz/oGHjnEnDbmWWvLyyGpoqxOhZB/KvaEQMMrm+ig4fP+B1rQN1C6qZvJ24nXiUMNK71eymwVtmm7WwyrohJn4C0=
-  - secure: UrUpI+/ai9TTFP7898tNMNh4cMRMNNQufIqFEL8pSVTbPcbKlApYy+xOiMgI4tjX8dSsDPyNkuLWpEgeHi8t693zuV+A5CJ+Q5VMvA+Dhv4994ccFgKnEweIpq2QwEbjtm8ouXJ7r4UIAgv7H0J4OmcVqXwKPPggf9bqZM4LxV8=
-  - secure: Nhi9r55jo/VkYvZp0+8T2SKDNdNpwuU/8ya2qCDl0d9BNTaqJ4zskRvbV1UhpKb7NxXwWhoecGwsShJpLydzpqaYI6VngfpODAXRye01jaquQlFw0ujMev2Jpr8nF5L8AlUtbHqGHajXKH8ktI6yN0U7naKTqhowcWTEnxoKW9c=
+  - secure: vp6stKOT2Pld2MG56+1u/47uIK2+7AyRwIw84WgeBAZZi7BfqeV3Aosw7RflSOP8OXpidGwm4th717piO/k6dra7LycW61g0rgWuOBkeqVJ8rMqku0EvLC+23BdF5flRAh23Mn+efYUO+Cnd/NaGofcJLulZsNRMJCxmeZvBCys=
+  - secure: RdFjciOk8DrVWSdG1zxJQypMkm4isAjDL5gjYeZT7xj0TUC/zD0Wa0GeNtzQYuKKGA27bqgxyXHdLQmPlEb1Dz6hTMXrcl5P1oVCPNAklmTDsY86ejDb1VEH8NUnSkovBShUZ4ufmy1cGVJy2FA5aBwBKe/5LpwwjwTctp4hA+Q=
+  - secure: x+pMiu5SxeSOBoxFSIWl6JDnMFR20OXqTTvTyoh8OTIVDnWSbmkx5O6BqcWcukRwYLJs+MY62gd5sg8ZCFcAC+w3BRr/rjjVHdZjN5LwRjLffsgrkIBINgYNf5/oHODwtZpPIobDj4QoH8FVYELSwmEtpGpPb/sz8BFo3itSuGc=
 before_install: npm install -g grunt-cli
 install: npm install
 before_script: grunt build
-after_success: find dist -type f -exec curl --ftp-create-dirs --ftp-ssl -T {} -u $FTP_USER:$FTP_PASSWORD $FTP_URL{} \;
+after_success: (cd dist && find . -type f -exec curl --ftp-create-dirs --ftp-ssl -T
+  {} -u $FTP_USER:$FTP_PASSWORD $FTP_URL{} \; )
