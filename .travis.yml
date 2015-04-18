@@ -2,11 +2,15 @@ language: node_js
 node_js: '0.10'
 env:
   global:
-  - secure: vp6stKOT2Pld2MG56+1u/47uIK2+7AyRwIw84WgeBAZZi7BfqeV3Aosw7RflSOP8OXpidGwm4th717piO/k6dra7LycW61g0rgWuOBkeqVJ8rMqku0EvLC+23BdF5flRAh23Mn+efYUO+Cnd/NaGofcJLulZsNRMJCxmeZvBCys=
-  - secure: RdFjciOk8DrVWSdG1zxJQypMkm4isAjDL5gjYeZT7xj0TUC/zD0Wa0GeNtzQYuKKGA27bqgxyXHdLQmPlEb1Dz6hTMXrcl5P1oVCPNAklmTDsY86ejDb1VEH8NUnSkovBShUZ4ufmy1cGVJy2FA5aBwBKe/5LpwwjwTctp4hA+Q=
-  - secure: x+pMiu5SxeSOBoxFSIWl6JDnMFR20OXqTTvTyoh8OTIVDnWSbmkx5O6BqcWcukRwYLJs+MY62gd5sg8ZCFcAC+w3BRr/rjjVHdZjN5LwRjLffsgrkIBINgYNf5/oHODwtZpPIobDj4QoH8FVYELSwmEtpGpPb/sz8BFo3itSuGc=
+  - secure: Suhqf7PCBXq3+6XrFhmkDNROW7V7zAE3wK5d5BBXZpDgC0+D3pyh5k9rZHhx70W3JlRgqhmC7NIutiyBnE88kaxPXhIn3sP+BdKpACLjPeuqb7c6euVWcm38NeNpAOf/z8wMlWF1utHXG0SqS6FbJyQo2418NAlqt8JMzWjcFHI=
+  - secure: Nh12PqjGo43QkBW2UhBBzHeiXz3MyIkj0o3KRbNZcRpQqTTjxmq35zYMUZL7rud1PqUehOh15oXoP2f0ed/cRS4uzGcDau4uwb1w4H/imK6LrwEIWDv/4wkPd2xjDnMvCLUmBZm4Hc2Sx7P4PgFl82v7SNTOEy4NIjtYABffy4Q=
+  - secure: aj0i+Wehwq4HsGAE/spRcZbqbIVoTGFCXCwt2XDkgZhmLB8xasxrrsyBKjPIvKbawB4/UK4ypVsK1dLh3tghEn42zilGhludgjoDCLPoTh0ZlF0HcjyhabiAtGQP9JCrD9O56NeRkvWITWTqmY8yQUtkQiitUmFRsg4qBWUfE9I=
+  - secure: pPFFnKdNO417NeihUVS7am/fTxMEE506iA7Oj0cpGMYWfps6EK6lrNSpQOZKqhCi9PgOcD9KkQiR5Vzphl6TZlLnbe+eznkVcFvYny+Gs37AEkitphNY5tocnn26rEh3MPEBdLCzepemBz6BQFflbDAxo3ZDPPfVKALV/B59xb0=
 before_install: npm install -g grunt-cli
 install: npm install
 before_script: grunt build
-after_success: (cd dist && find . -type f -exec curl --ftp-create-dirs --ftp-ssl -T
-  {} -u $FTP_USER:$FTP_PASSWORD $FTP_URL{} \; )
+after_success:
+- chmod +x ./travis-install-git-ftp.sh
+- chmod +x ./travis-deploy.sh
+- ./travis-install-git-ftp.sh
+- ./travis-deploy.sh
