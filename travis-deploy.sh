@@ -12,16 +12,17 @@ git config --global user.name "Travis CI"
 git config --global user.email "travis@travis-ci.org"
 
 DIST_REPO=https://${GH_TOKEN:-git}@github.com/${DIST_REPO_NAME}.git
-git clone --depth 1 "$DIST_REPO" $DIST_REPO_DIR
-rsync -r --exclude=.git --delete $OUTPUT_DIR/ $DIST_REPO_DIR/
-
+mkdir $DIST_REPO_DIR
 cd $DIST_REPO_DIR
+git init
+git pull --depth 1 "$DIST_REPO"
+rsync -r --exclude=.git --delete ../$OUTPUT_DIR/ ./
 
 git add -A
 git status -s
 
 git commit -m "generate site from ${SOURCE_REPO_NAME}@${SOURCE_COMMIT}"
-git push origin master
+git push -q "$DIST_REPO" master
 ../$GIT_FTP_DIR/git-ftp push -n -u $FTP_USER -p $FTP_PASSWORD $FTP_URL
 
 cd -
