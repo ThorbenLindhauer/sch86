@@ -21,7 +21,8 @@ module.exports = function(grunt) {
           optimization: 2
         },
         files: {
-          "dist/assets/css/main.css": "assets/css/main.less"
+          "dist/assets/css/main.css": "assets/css/main.less",
+          "dist/assets/css/print.css": "assets/css/print.less"
         }
       }
     },

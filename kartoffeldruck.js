@@ -15,6 +15,10 @@ var tagMenus = {
 
 module.exports = function(druck) {
 
+  var yesno = function(obj, yes, no) {
+    return obj ? yes : no;
+  };
+
   // initialize the kartoffeldruck instance
   // you may specify (global) template locals
   // as well as the place for templates, pages, assets and dest more
@@ -27,6 +31,7 @@ module.exports = function(druck) {
   var nunjucks = druck.config.nunjucks;
   nunjucks.addFilter('formatDate', formatter.formatDate);
   nunjucks.addFilter('excerpt', excerpt);
+  nunjucks.addFilter('yesno', yesno);
 
   // render static pages
   var staticPages = druck.files('static/**/*');
@@ -52,6 +57,15 @@ module.exports = function(druck) {
     dest: ':name/index.html'
   });
 
+  // generate print pages
+  druck.generate({
+    source: posts,
+    dest: ':name/print/index.html',
+    locals: {
+      print: true
+    }
+  });
+
   // front page
   druck.generate({
     source: 'index.html',
@@ -74,7 +88,7 @@ module.exports = function(druck) {
     });
   });
 
-  // tage pages
+  // tag pages
   forEach(tagged, function(t) {
     druck.generate({
       source: '_tagged.html',

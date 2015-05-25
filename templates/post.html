@@ -1,4 +1,4 @@
-{% extends "blog.html" %}
+{% extends print | yesno('blog_print.html', 'blog.html') %}
 
 {% block content %}
 <div class="post">
@@ -10,13 +10,23 @@
   {% block item_body %}
   {% endblock %}
 
-  <div class="post-footer">
-    <h4>Tags:</h4>
-    <ul>
-      {% for tag in tags %}
-        <li><a href="{{ relative('tags/' + tag) }}">{{ tag }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% if not print %}
+    <div class="post-footer">
+      <div class="post-footer-tags">
+        <h4>Tags:</h4>
+        <ul>
+          {% for tag in tags %}
+            <li><a href="{{ relative('tags/' + tag) }}">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="post-footer-action">
+        <h4>Aktionen:</h4>
+        <ul>
+          <li><a href="{{ relative(name + '/print') }}">Druckversion</a></li>
+        </ul>
+      </div>
+    </div>
+  {% endif %}
 </div>
 {% endblock %}
