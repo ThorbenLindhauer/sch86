@@ -10,5 +10,3 @@ layout: post # Das muss überall genau so drinstehen
 
 Bei der Landesjugendmeisterschaft im Blitzschach am 13.6. in Herne konnte Phillip in der gemischten U16/U20 einen 9. Platz unter 17 Teilnehmern für sich verbuchen. Acht Siegen standen acht Niederlagen gegenüber, wobei gegen die Schwächeren voll gepunktet wurde und die stärkeren Spieler ihrerseits dem Kurzen das Nachsehen gaben.
 In der "bereinigten" Tabelle der U16 kam Phillip auf dem 5. Platz ein; der Abstand zum Treppchen war deutlich, die Leistung an sich an einem schönen Tag zum Schach spielen aber auch zufrieden stellend.
-
----
