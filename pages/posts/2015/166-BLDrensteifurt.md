@@ -3,7 +3,7 @@
 title: "Der neue Christian - Speedy Gonzales lebt!" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
 author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
 date: 2015-09-06 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
-tags: [ News Verein ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
+tags: [ Erste ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
 layout: post # Das muss überall genau so drinstehen
 
 ---
