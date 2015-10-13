@@ -1,13 +1,28 @@
 ---
 
-title: "Hiltruper Kick-Start!" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
+title: "Nummer 5 lebt!" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
 author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
 date: 2015-10-09 04:06:40 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
 tags: [ News Verein ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
 layout: post # Das muss überall genau so drinstehen
 
 ---
-erster Tag (Open Runde 1, 10.10.)
+Oben Schwung, unten Sand im Getriebe (Open Runde 5, Challengers Runde 3, 13.10.)
+Ralf und Steffen mussten heute beide nach behrzt vorgetragenen Partien eine Niederlage einstecken. Ralf unterlief ein taktisches Versehen nach einem strategisch gut angelegten Angriff. Leider ging eine Figur flöten, und das war nicht ganz so schnell zu sehen, und auch die nachfolgenden Ausgleichsversuche wurden pariert. steffen trieb es auf die Spitze. Er gewann eine Figur, stellte direkt daruf wieder einen Turm ein und überrante mit einem Bauernsturm durch die Mitte den Gegner. Die Mattfortsetzung sah er allerdings nicht und so setzte sich das Mehrmaterial des Gegners schließlich durch.
+Im Open stand Andreas nach einer Stunde gut und nach anderthalb auf Gewinn. Der Gegner beschwor sehr erfolgreich noch Komplikationen herauf und die Partie ging bis fast zur Zeitkontrolle. Doch dann blieb eine Mehrfigur auf Andreas Seite einfach übrig und der beherzt spielende Gegner gab auf. Mit 3,0/5 geht es morgen in Tischreihe 2 weiter, da sitzen die dicken Brocken, allerdings nicht die ganz dicken. Phillip bleibt weiterhin ungeschlagen, heute kämpfte er über vier Stunden mit einem Mehrbauern in einem komplizierten Endspiel. Der Gegner konnte sein Läuferpaar allerdings gut postieren und Phillip machte schließlich gekonnt die Stellung dicht. Nach knapp 50 Zügen wurde die Remishände geschüttelt und Phillip grinste: "Jetzt bin ich wirklich Nummer 5!"
+
+
+Tuchfühlung behalten (Open Runde 4, Challengers Runde 2, 12.10.)
+Eigentlich ein ordentlicher tag für die Hiltruper Fraktion. Im Open haben Phillip und Andreas ein ausgeglichenes Punktekonto und der Sohn rangiert in der Tabelle nun 10 Plätze vor seinem Vater. Das vierte Remis gegen den üblichen 2000er war wiederum wohlverdient und lässt nicht etwa auf besondere Friedfertigkeit schließen. Ganz im Gegenteil, die Stellungen werden brav ausgekämpft und die Gegnerschaft wundert sich. Andreas konnte als leichter Favorit seiner Begegnung einen Zermürbungssieg einfahren.
+Im Challengers war Ralf ursprünglich das Freilos zugewiesen worden, doch auf besonderes Drngen eines einzelnen Herrn wurde er dann gegen den Nachrücker Jürgen Schmidt gelost. In dieser Partie war Ralf dann leider chancenlos und konnte nicht an die gute Leistung des Vortages anknüpfen. Steffen holte ein verdientes Remis gegen ein Borkener Jungtalent und schraubte sein Punktekonto auf 1,5 Zähler.
+
+
+Wieder geerdet! (Open Doppelrunde, Challengers Runde 1, 11.10.)
+Wir sind alle wieder auf dem Hosenboden der Tatsachen gelandet - naja, fast alle. Vor allem Andreas und Daniel haben heute nicht glänzen können und ihre beiden Partien der Doppelrunde verloren. Die Wut stand beiden auch ins Gesicht geschrieben. Da freut es einen doch, wenn man sich von starken Gegnern nicht beeindrucken lässt wie Phillip. Der Kurze hat heute zwei Remisen gegen einen Schnitt von 2000 ELO eingefahren und war sichtlich zufrieden. Und mit was? MIT RECHT! Dafür hat er ob seiner Wißbegier einen neuen Spitznamen bekommen: Nummer 5. Konnte er gar nicht verstehen, was die doofen Erwachsenen da zu Lachen hatten.
+Steffen und Ralf haben einen guten Start ins Challnegrs hingelegt. Ralf ging einem 1400er beherzt an die Gurgel und konnte sich trotz Materialnachteils bis ins Damenendspiel kämpfen. Hier wurde allerdings ein abgeklemmter Springer zusätzlich kassiert, was Ralf - gerpchteweise auf einer BiFi kauend - zur Kapitulation veranlasste. Steffen holte auf der Fahrt nach Senden schon mal Schwung und fegte einen 1600er vom Brett - geiles Ding. ;)
+
+
+Hiltruper Kick-Start! (erster Tag: Open Runde 1, 10.10.)
 Die drei Hiltruper im Hauptturnier haben heute Krallen gezeigt und keine Partie verloren geben müssen. Die Partieverläufe waren allerdings sehr unterschiedlich und hätten auch andere Ergebnisse zugelassen. Phillip war als erster unserer Drei fertig und holte als Schwächerer mit Schwarz ein sauberes Remis aus einer Wiener Partie. Zum Schluss war ein bauerngewinn auf dem Brett, doch bei ungleichfarbigen Läufern musste das nicht zwingend den Sieg bedeuten. Sein Remisangebot wurde vom Gegenüber aber sehr gerne angenommen.
 Bei Daniel gab es eine sehr ausgeglichene Partie, die unserem Haudegen ein bekanntes Stellungsmuster einbrachte. Doch der etwas schwächer eingestufte Gegner ließ sich nicht lumpen und hielt die Puppen sauber zusammen. Da keiner der beiden Harakiri spielen wollte, einigte man sich auch hier auf ein Unentschieden.
 Einer der längeren Partien produzierte der in seiner Begegnung favorisierte Andreas. Nach langem Lavieren gab es einen Qualitätsgewinn (den der Rechner so nicht angenommen hätte, da hätte die Dame auch gegen T+L+B das Brett verlassen können!), der routiniert im Endspiel zum Auftaktsieg abgewickelt wurde. Als Belohnung spielt Andreas morgen an Brett 6 gegen FM HW Ackermann, den ML-Open-Sieger und Deutschen Senioren-Meister von 2013!
