@@ -13,7 +13,7 @@ Im Open stand Andreas nach einer Stunde gut und nach anderthalb auf Gewinn. Der 
 
 
 Tuchfühlung behalten (Open Runde 4, Challengers Runde 2, 12.10.)
-Eigentlich ein ordentlicher tag für die Hiltruper Fraktion. Im Open haben Phillip und Andreas ein ausgeglichenes Punktekonto und der Sohn rangiert in der Tabelle nun 10 Plätze vor seinem Vater. Das vierte Remis gegen den üblichen 2000er war wiederum wohlverdient und lässt nicht etwa auf besondere Friedfertigkeit schließen. Ganz im Gegenteil, die Stellungen werden brav ausgekämpft und die Gegnerschaft wundert sich. Andreas konnte als leichter Favorit seiner Begegnung einen Zermürbungssieg einfahren.
+Eigentlich ein ordentlicher tag für die Hiltruper Fraktion. Im Open haben Phillip und Andreas ein ausgeglichenes Punktekonto und der Sohn rangiert in der Tabelle nun 10 Plätze vor seinem Vater. Das vierte Remis gegen den üblichen 2000er war wiederum wohlverdient und lässt nicht etwa auf besondere Friedfertigkeit schließen. Ganz im Gegenteil, die Stellungen werden brav ausgekämpft und die Gegnerschaft wundert sich. Andreas konnte als leichter Favorit seiner Begegnung einen Zermürbungssieg einfahren. Leider musste Daniel aus privaten Gründen die Segel streichen. Er trat vom Turnier zurück.
 Im Challengers war Ralf ursprünglich das Freilos zugewiesen worden, doch auf besonderes Drngen eines einzelnen Herrn wurde er dann gegen den Nachrücker Jürgen Schmidt gelost. In dieser Partie war Ralf dann leider chancenlos und konnte nicht an die gute Leistung des Vortages anknüpfen. Steffen holte ein verdientes Remis gegen ein Borkener Jungtalent und schraubte sein Punktekonto auf 1,5 Zähler.
 
 
