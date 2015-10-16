@@ -1,16 +1,25 @@
 ---
 
-title: "Nummer 5 lebt!" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
+title: "Mit Zähnen und Klauen" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
 author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
 date: 2015-10-09 04:06:40 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
 tags: [ News Verein ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
 layout: post # Das muss überall genau so drinstehen
 
 ---
-**Oben Schwung, unten Sand im Getriebe (Open Runde 5, Challengers Runde 3, 13.10.)**
+**Die Luft wird dünner! (Open Runde 7, Challengers Runde 5, 15.10.)**  
+  Ralf hat einen Lauf! ;) Heute gab es Remis gegen DWZ 1200, obwohl im Mittelspiel ein wichtiger Bauer baden ging. Ralf kompensierte das mit einem entschlossenen Angriff auf die Königsstellung, der optisch den zweiten Sieg in Folge nahe legte. Über das Remis wird aber nicht gemeckert, das ist schließlich ein halber Punkt mehr, als Steffen geholt hat. Der wurde vom vierten der Setzliste kurz und knackig auseinander genommen und bekam in der Analyse dann noch etwas Schachunterricht.  
+  Phillip spielte im Open überraschend Remis, nachdem er seinen Gegner in dessen Eröffnung überrascht hatte. Auch hier war es wieder ein erkämpftes Unentschieden, das er sich ohne Abstriche verdient hat. Wenn nur nicht der Vater im Turnierareal auf seine ganzen Remisen angesprochen würde... der spielt nämlich noch immer komplett binär! Andreas gab eine klar gewonnene Position mit dem Kontrollzug ab. Die Überlegenheit der Stellung war zu riechen, aber das Konzept zur Umsetzung des Vorteils wollte nicht den Weg in die grauen Zellen finden. Eine ohne Umschweife haltbare Stellung wurde nach vier Stunden mit einem einfachen Einsteller weggeworfen - SCHOOOOKOOOOLAAAADEEEEEEEEEEEE!!
+
+<!-- continue -->
+**Nummer 5 gibt nicht auf! (Open Runde 6, Challengers Runde 4, 14.10.)**
+  Phillip ist definitiv im Open-Modus. Er konnte heute gegen einen sehr starken Junior ein schwieriges Turmendspiel Remis halten, indem er sich in gedrückt scheinender Stellung rechtzeitig Gegenspiel verschaffte. Andreas machte seine Sache nicht so gut und wurde ausgangs der Eröffnung ausgespielt. Die vorbereitete Eröffnungswaffe blieb aufgrund eines eigenen Strategiewechsels stumpf und es wurde schnell ein hoher Preis bezahlt.  
+  Die Hiltruper Schlagzeile des Tages gehört Ralf, der seinen ersten Sieg in überzeugender Manier einfahren konnte. Den Vorteil einer Mehrfigur ließ er sich nicht mehr nehmen und wickelte coool ab zum vollen Punkt. Steffen traf auf Jürgen Schmidt und zeigte mit Schwarz die Krällchen. Es sah lange sehr unangenehm aus, aber das Remis ist natürlich ein sehr schönes Ergebnis. Weiter so!
+
+
+**Nummer 5 lebt! (Open Runde 5, Challengers Runde 3, 13.10.)**
   Ralf und Steffen mussten heute beide nach beherzt vorgetragenen Partien eine Niederlage einstecken. Ralf unterlief ein taktisches Versehen nach einem strategisch gut angelegten Angriff. Leider ging eine Figur flöten, und das war nicht ganz so schnell zu sehen, und auch die nachfolgenden Ausgleichsversuche wurden pariert. Steffen trieb es auf die Spitze. Er gewann eine Figur, stellte direkt daruf wieder einen Turm ein und überrante mit einem Bauernsturm durch die Mitte den Gegner. Die Mattfortsetzung sah er allerdings nicht und so setzte sich das Mehrmaterial des Gegners schließlich durch.  
   Im Open stand Andreas nach einer Stunde gut und nach anderthalb auf Gewinn. Der Gegner beschwor sehr erfolgreich noch Komplikationen herauf und die Partie ging bis fast zur Zeitkontrolle. Doch dann blieb eine Mehrfigur auf Andreas Seite einfach übrig und der beherzt spielende Gegner gab auf. Mit 3,0/5 geht es morgen in Tischreihe 2 weiter, da sitzen die dicken Brocken, allerdings nicht die ganz dicken. Phillip bleibt weiterhin ungeschlagen, heute kämpfte er über vier Stunden mit einem Mehrbauern in einem komplizierten Endspiel. Der Gegner konnte sein Läuferpaar allerdings gut postieren und Phillip machte schließlich gekonnt die Stellung dicht. Nach knapp 50 Zügen wurde die Remishände geschüttelt und Phillip grinste: "Jetzt bin ich wirklich Nummer 5!"
-<!-- continue -->
 
 **Tuchfühlung behalten (Open Runde 4, Challengers Runde 2, 12.10.)**
   Eigentlich ein ordentlicher Tag für die Hiltruper Fraktion. Im Open haben Phillip und Andreas ein ausgeglichenes Punktekonto und der Sohn rangiert in der Tabelle nun 10 Plätze vor seinem Vater. Das vierte Remis gegen den üblichen 2000er war wiederum wohlverdient und lässt nicht etwa auf besondere Friedfertigkeit schließen. Ganz im Gegenteil, die Stellungen werden brav ausgekämpft und die Gegnerschaft wundert sich. Andreas konnte als leichter Favorit seiner Begegnung einen Zermürbungssieg einfahren. Leider musste Daniel aus privaten Gründen die Segel streichen. Er trat vom Turnier zurück.  
