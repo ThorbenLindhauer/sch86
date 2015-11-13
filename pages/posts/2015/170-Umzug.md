@@ -8,9 +8,9 @@ layout: post # Das muss überall genau so drinstehen
 
 ---
 **Veranstaltungen im November finden wie geplant statt**  
-Die Stadthalle Hiltrup wird aufgrund der Flüchtlingskrise als Quartier für die in Münster untergebrachten Flüchtenden und Asylsichenden genutzt werden. Der Klassenraumtrakt wird in Not-Wohneinheiten umgebaut. Die Schach-Veranstaltungen, die wir uns vorgenommen haben, finden aber statt. Die beiden **Mannschaftskämpfe** im November finden noch **in der Stadthalle** statt, die **Jugendturniere** weichen mit hoher Wahrscheinlichkeit in eine **nahe gelegene Schulaula** aus.
+Die Stadthalle Hiltrup wird aufgrund der Flüchtlingskrise als Quartier für die in Münster untergebrachten Flüchtenden und Asylsuchenden genutzt werden. Der Klassenraumtrakt wird in Not-Wohneinheiten umgebaut. Die Schach-Veranstaltungen, die wir uns für November vorgenommen haben, finden aber statt. Die beiden **Mannschaftskämpfe** finden noch **in der Stadthalle** statt, die **Jugendturniere** weichen mit hoher Wahrscheinlichkeit in eine **nahe gelegene Schulaula** aus.
 <!-- continue -->
 Für das Turnierwochenende am 28.11./29.11. brauchen wir noch freiwillige Helfer. Wer an einem der beiden Tage etwas Zeit erübrigen kann, meldet sich bitte bei mir oder Stefan Voigt.  
-Die Vereinsabende finden in der Stadthalle in einem spontan gewählten Raum statt. Treffpunkt am 19.11. (Achtung: Getränke sind an diesem Tag kostenlos) und am 26.11. ist der Garderobenbereich der Stadthalle.
+Die Vereinsabende finden in der Stadthalle in einem spontan gewählten Raum statt. Treffpunkt am 19.11. (Achtung: Getränke sind an diesem Tag kostenlos) und am 26.11. ist der Garderobenbereich der Stadthalle. Für den Dezember bekommt ihr noch Bescheid.
 
 Die neue Heimat des SC Hiltrup ist schon ins Auge gefasst, aber da noch Nichts unterschrieben wurde, gebe ich hier keine "Gerüchte" wieder. Mehr Informationen, sobald wir sie haben!
