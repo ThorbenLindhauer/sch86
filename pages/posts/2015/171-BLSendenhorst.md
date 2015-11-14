@@ -2,8 +2,8 @@
 
 title: "Das war knapp - Revanche missglückt!" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
 author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
-date: 2015-11-13 04:06:40 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
-tags: [ News Verein ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
+date: 2015-11-14 20:30:40 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
+tags: [ Erste ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
 layout: post # Das muss überall genau so drinstehen
 
 ---
