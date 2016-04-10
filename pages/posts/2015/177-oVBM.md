@@ -1,6 +1,6 @@
 ---
 
-title: "Blitzmeisterschaft 2016 – schon wieder "Junk" " # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
+title: "Blitzmeisterschaft 2016 – schon wieder der Junk " # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
 author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
 date: 2016-04-07 22:45:00 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
 tags: [ News Verein ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
