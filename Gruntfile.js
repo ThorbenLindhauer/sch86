@@ -2,6 +2,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-less');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-connect');
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -34,6 +35,15 @@ module.exports = function(grunt) {
           nospawn: true
         }
       }
+    },
+    connect: {
+      server: {
+        options: {
+          port: 8080,
+          base: './dist',
+          livereload: true
+        }
+      }
     }
   });
 
@@ -52,7 +62,6 @@ module.exports = function(grunt) {
     grunt.task.run('copy');
   });
 
-  grunt.registerTask('auto-build', ['watch']);
-
+  grunt.registerTask('auto-build', ['connect:server', 'watch']);
 }
 
