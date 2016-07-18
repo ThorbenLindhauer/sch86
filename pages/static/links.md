@@ -27,8 +27,8 @@ Hier einige interessante Links aus der Schachwelt des Münsterlands:
 
 ### Infodienste
 
-* [Ergebnisdienst Erste Mannschaft 2015/2016](http://nrw.svw.info/ergebnisse/show/2015/1209/)
-* [Ergebnisdienst Zweite Mannschaft 2015/2016](http://nrw.svw.info/ergebnisse/show/2015/1203/)
+* [Ergebnisdienst Erste Mannschaft 2016/2017](http://nrw.svw.info/ergebnisse/show/2016/1619/)
+* [Ergebnisdienst Zweite Mannschaft 2016/2017](http://nrw.svw.info/ergebnisse/show/2016/1615/)
 * [Schachbezirk Münster](http://www.schachbezirkmuenster.de)
 * [DWZ-Auswertung Münsterland](http://www.ckamp.privat.t-online.de/start.htm)
 * [Deutscher Schachbund](http://www.schachbund.de)
