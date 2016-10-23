@@ -3,7 +3,7 @@
 title: "Münsterland Open in Senden mit vier Hiltruper Kämpfern - Ticker"
 author: PhillipJunk
 date: 2016-10-22
-tags: [Erste]
+tags: [News Verein]
 layout: post
 
 ---
