@@ -10,7 +10,7 @@ layout: post
 **Vier Hiltruper Kämpfer in Senden**
 
 Hier ist leicht verspätet der Ticker über das vergangenene Münsterland-Open sowie dem parallel ausgetragenen Challengers in Senden. Vom SC vertreten waren im Open dieses Jahr Heribert und Phillip, im Challengers hissten Steffen und Ralf die Hiltruper Fahne. Viel Spaß mit dem Ticker!
-<!continue>
+<!-- continue -->
 08.10: 1.Runde Open:
 In der ersten Runde im Open duellierten sich direkt Heribert und Phillip um einen wertvollen Auftaktsieg. Nach einem farblosen Franzosen entstand jedoch ein Leichtfigurenendspiel, in dem sich Heribert entschied, es mit dem stellungstypischen Isolani nicht auf weitere Verwicklungen ankommen zu lassen. Mit einem halben Punkt gehen nun also beide in die Doppelrunde am Sonntag.
 
