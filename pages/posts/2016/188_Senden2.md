@@ -1,0 +1,18 @@
+---
+
+title: "Hiltrup II siegt nach Lucky Punch" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält)
+author: ElZorro # Name des Authors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
+date: 2016-12-03 21:45:00 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
+tags: [ Zweite ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
+layout: post # Das muss überall genau so drinstehen
+
+---
+**Sieg über Sendens Zweite bringt Platz im Mittelfeld** 
+
+Im Mannschaftskampf zwischen den Zweitvertretungen von Hiltrup und Senden hatte man als Zuschauer kaum Zeit, irgendwelche Nerven zu verlieren. Wenn einer der Spieler Fehler machte, war es praktisch immer partieentscheidend und das gilt hüben wie drüben. In einem Mannschaftskampf auf Augenhöhe steht am Ende deshalb ein sehr glücklicher 3,5:2,5 Erfolg von Hiltrup II zu Buche.
+<!-- continue -->
+Die erste Runde zwischen den „Schwergewichtlern“ aus Hiltrup und Senden ging an die Gäste. Nach knapp einer Stunde hatte Egon die Dame verloren und versuchte noch für einige Züge Kompensation zu erhalten – vergeblich, der Sieg des Sendeners war zügig eingetütet. Rolf machte es am vierten Brett aber ähnlich, er wartete auf den ersten groben Fehler des Gegners und setzte ansatzlos zur KO-Keule an. Das Endspiel mit Minusqualität und Minusbauer (andere Figuren waren nicht mehr auf dem Brett) wollte sich der Gegner nicht mehr zeigen lassen. Etwa zeitgleich sicherte sich Christian am sechsten Brett in materiell ausgeglichener Stellung seinen ersten erspielten halben Punkt für die Zweite. Es wäre zwar noch ein Angriff verfügbar gewesen, der auch nur sehr schwer zu verteidigen gewesen wäre, doch in der ersten Saison muss man nicht zu kritisch mit unseren Ergänzungsspielern sein.
+
+Danach war wieder Zeit für die großen KO-Schläge. Captain Kalle musste mächtig auf der Hut sein, nicht in einen tödlichen Mattangriff zu geraten. Sein Gegner hatte sich einen ansehnlichen Plan zurecht gelegt, der als Auftakt ein Turmopfer vorsah. Doch der Schwinger ging ins Leere, Kalle ging nach hinten in die Seile... nein, mit dem König in die Ecke und konterte seinerseits mit beiden Türmen auf der gegnerischen zweiten Reihe. Da ein Figurenverlust zur vorläufigen Abwehr des Mattangriffs unvermeidbar war, kapitulierte der Sendener Spieler. Doch Senden kam mit Geduld zurück ins Spiel. An Brett fünf ging sehr plötzlich eine Partie verloren die nach allen schachlichen Maßstäben Remis hätte enden sollen. Leider übersah Klaus, dass er das Turmendspiel nur halten konnte, wenn er den Turmtausch unter allen Umständen vermeidet. Im Bestreben, aktiv zu werden, schob er einen Bauern zum Tausch vor und schon war die Koordination der schwarzen Verteidiger empfindlich gestört. Als Ergebnis rannte ein entferntes Fliegengewicht auf die Hiltruper Grundreihe zu und der Mannschaftskampf war zum 2,5:2,5 ausgeglichen.
+
+Somit blieb es den Vorkämpfern vorbehalten,die Angelegenheit zu entscheiden. Der Sendener Captain hatte die deutlich harmonischer erscheinende Stellung erarbeitet und Nichts deutete auf ernste Probleme hin. Im Damenendspiel fing Steffen aber an zu zaubern und provozierte mit dem Damentausch einen groben Fehler. Beide Spieler hatten einen vorgerückten Freibauern, doch der Hiltruper Bauern war nicht mehr aufzuhalten und der plötzliche KO auf dem Brett und im Mannschaftskampf war besiegelt. Hiltrup II rückt damit nach zwei Auftaktniederlagen ins Tabellenmittelfeld der Kreisliga auf, die Sendener kommen nach zwei Auftaktunentschieden der Abstiegszone näher.
