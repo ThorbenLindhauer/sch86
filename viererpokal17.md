@@ -1,4 +1,4 @@
-title: "Unbesiegt ausgeschieden! 
+title: "Unbesiegt ausgeschieden!"
 author: PhillipJunk
 date: 2017-09-25 17:41:00
 tags: [ News Verein, Erste ]
