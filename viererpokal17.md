@@ -1,7 +1,7 @@
 title: "Unbesiegt ausgeschieden!"
 author: PhillipJunk
 date: 2017-09-25 17:41:00
-tags: [ News Verein, Erste ]
+tags: [ Erste ]
 layout: post
 
 Letzten Sonntag fand das Aufeinandertreffen von Hiltrup und Dülmen im Viererpokal statt. Dieses entschieden die Dülmener nach einem 2:2 per Losentscheid für sich.
