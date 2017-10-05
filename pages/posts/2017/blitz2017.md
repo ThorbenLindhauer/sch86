@@ -16,18 +16,28 @@ Das Turnier wurde doppelrundig ausgetragen, somit hatte jedes Team 14 Spiele zu 
 
 Wie im Blitz üblich, hielt das Turnier multiple Überraschungen, Favoritenstürze und Zeitnotschlachten bis auf die letzten Sekunden bereit.
 In der Hinrunde las sich das Hiltruper Resultat wie folgt: 
+
 Mannschaftspunkte: 8 - 6 (4.Platz von 8)
+
 Heribert: 3,5/7
+
 Phillip: 6/7
+
 Arne: 4/7
+
 Andreas: 4,5/7
 
 Ein mehr als starkes Ergebnis - nicht ein Spieler unter 50%, Phillip hamsterte Siege am laufenden Band ein (5/5 Start), Niederlagen wurden reduziert. Mit den drittmeisten Brettpunkten auf Tabellenrang 4 ging es in die Rückrunde.
 Danach las sich die Rangliste wie folgt:
+
 Mannschaftspunkte: 14 - 14 (5. Platz von 18)
+
 Heribert: 6,5/14
+
 Phillip: 9,5/14
+
 Arne: 8/14
+
 Andreas: 7,5/14
 
 Da es in der Rückrunde nur Arne gelang, seinen Score zu halten, rutschte Hiltrup hinter bärenstarken Münsteranern, Nienbergern und aus dem Nichts aufdrehenden Olfenern sowie hinter Dülmen auf Rang 5 ab. 
