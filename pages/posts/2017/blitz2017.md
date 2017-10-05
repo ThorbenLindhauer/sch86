@@ -1,7 +1,7 @@
 title: "Erfolg auf den Mannschaftsblitzmeisterschaften!"
 author: PhillipJunk
 date: 2017-10-05 18:00:00
-tags: [Erste]
+tags: [ Erste ]
 layout: post
 
 Die Hiltruper Blitzformation (Heribert, Phillip, Arne und Andreas) haben sich bei den diesjährigen Mannschaftsblitzmeisterschaften mehr als bewiesen und die erste sportliche Qualifikation zur Verbandsebene in der Vereinsgeschichte geschafft (einmal Ausrichterplatz).
