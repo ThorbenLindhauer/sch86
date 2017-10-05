@@ -12,6 +12,7 @@ Die Hiltruper Blitzformation (Heribert, Phillip, Arne und Andreas) haben sich be
 <!-- continue -->
 Am 3. Oktober fanden in Olfen die Mannschaftsblitzmeisterschaften statt. Erstmals seit langem wurde auf das A-/B-/C-Klassensystem verzichtet; somit spielten alle Teams um die sechs Qualiplätze für die Verbandsebene mit.
 Überraschenderweise meldeten sich dieses Mal nur acht Mannschaften an - vor allem der SK 32 überraschte, als er mit nur einer Mannschaft im Vergleich zu dreien im Vorjahr antrat. Ein Platz für die Hiltruper an der Sonne wirkte somit näher als gedacht.
+
 Das Turnier wurde doppelrundig ausgetragen, somit hatte jedes Team 14 Spiele zu bestreiten. Hiltrups Formation sah Heribert an der 1, Phillip an der 2, Arne an der 3 und Andreas an der 4.
 
 Wie im Blitz üblich, hielt das Turnier multiple Überraschungen, Favoritenstürze und Zeitnotschlachten bis auf die letzten Sekunden bereit.
