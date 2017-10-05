@@ -42,4 +42,4 @@ Arne: 8/14
 Andreas: 7,5/14
 
 Da es in der Rückrunde nur Arne gelang, seinen Score zu halten, rutschte Hiltrup hinter bärenstarken Münsteranern, Nienbergern und aus dem Nichts aufdrehenden Olfenern sowie hinter Dülmen auf Rang 5 ab. 
-Doch auch diese Platzierung reichte zur Qualifikation für die Verbandsebene, um am Ende musste man sich zwar über verpasste Chancen ärgern (Bronze war lange Zeit wahrscheinlich), durfte sich aber trotzdem über einen weietren Erfolg für die Vereinsgeschichte freuen!
+Doch auch diese Platzierung reichte zur Qualifikation für die Verbandsebene, um am Ende musste man sich zwar über verpasste Chancen ärgern (Bronze war lange Zeit wahrscheinlich), durfte sich aber trotzdem über einen weiteren Erfolg für die Vereinsgeschichte freuen!
