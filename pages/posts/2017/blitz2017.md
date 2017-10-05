@@ -1,0 +1,30 @@
+title: "Erfolg auf den Mannschaftsblitzmeisterschaften!"
+author: PhillipJunk
+date: 2017-10-05 18:00:00
+tags: [Erste]
+layout: post
+
+Die Hiltruper Blitzformation (Heribert, Phillip, Arne und Andreas) haben sich bei den diesjährigen Mannschaftsblitzmeisterschaften mehr als bewiesen und die erste sportliche Qualifikation zur Verbandsebene in der Vereinsgeschichte geschafft (einmal Ausrichterplatz).
+<!-- continue -->
+Am 3. Oktober fanden in Olfen die Mannschaftsblitzmeisterschaften statt. Erstmals seit langem wurde auf das A-/B-/C-Klassensystem verzichtet; somit spielten alle Teams um die sechs Qualiplätze für die Verbandsebene mit.
+Überraschenderweise meldeten sich dieses Mal nur acht Mannschaften an - vor allem der SK 32 überraschte, als er mit nur einer Mannschaft im Vergleich zu dreien im Vorjahr antrat. Ein Platz für die Hiltruper an der Sonne wirkte somit näher als gedacht.
+Das Turnier wurde doppelrundig ausgetragen, somit hatte jedes Team 14 Spiele zu bestreiten. Hiltrups Formation sah Heribert an der 1, Phillip an der 2, Arne an der 3 und Andreas an der 4.
+
+Wie im Blitz üblich, hielt das Turnier multiple Überraschungen, Favoritenstürze und Zeitnotschlachten bis auf die letzten Sekunden bereit.
+In der Hinrunde las sich das Hiltruper Resultat wie folgt: 
+Mannschaftspunkte: 8 - 6 (4.Platz von 8)
+Heribert: 3,5/7
+Phillip: 6/7
+Arne: 4/7
+Andreas: 4,5/7
+
+Ein mehr als starkes Ergebnis - nicht ein Spieler unter 50%, Phillip hamsterte Siege am laufenden Band ein (5/5 Start), Niederlagen wurden reduziert. Mit den drittmeisten Brettpunkten auf Tabellenrang 4 ging es in die Rückrunde.
+Danach las sich die Rangliste wie folgt:
+Mannschaftspunkte: 14 - 14 (5. Platz von 18)
+Heribert: 6,5/14
+Phillip: 9,5/14
+Arne: 8/14
+Andreas: 7,5/14
+
+Da es in der Rückrunde nur Arne gelang, seinen Score zu halten, rutschte Hiltrup hinter bärenstarken Münsteranern, Nienbergern und aus dem Nichts aufdrehenden Olfenern sowie hinter Dülmen auf Rang 5 ab. 
+Doch auch diese Platzierung reichte zur Qualifikation für die Verbandsebene, um am Ende musste man sich zwar über verpasste Chancen ärgern (Bronze war lange Zeit wahrscheinlich), durfte sich aber trotzdem über einen weietren Erfolg für die Vereinsgeschichte freuen!
