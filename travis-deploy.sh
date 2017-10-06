@@ -23,7 +23,7 @@ git status -s
 
 git commit -m "generate site from ${SOURCE_REPO_NAME}@${SOURCE_COMMIT}"
 git push -q "$DIST_REPO" master
-../$GIT_FTP_DIR/git-ftp push -n -u $FTP_USER -p $FTP_PASSWORD $FTP_URL
+../$GIT_FTP_DIR/git-ftp push -u $FTP_USER -p $FTP_PASSWORD $FTP_URL
 
 cd -
 
