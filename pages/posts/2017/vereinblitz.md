@@ -7,6 +7,5 @@ tags: [Erste]
 layout: post
 
 ---
-Die Vereinsblitzmeisterschaften stehen an!
-<!-- continue -->
+
 Nächsten Donnerstag, am 19. Oktober, wird ab 19:30 beim Vereinsabend der Vereinsblitzmeister ausgekämpft. Wie üblich dürfen auch Nicht-Mitglieder teilnehmen.
