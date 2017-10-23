@@ -3,7 +3,7 @@
 title: Der Blitzmeister steht fest!
 author: PhillipJunk
 date: 2017-10-23 21:30:00
-tags: [Erste]
+tags: [Erste, News Verein]
 layout: post
 
 ---
