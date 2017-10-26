@@ -15,7 +15,7 @@ DIST_REPO=https://${GH_TOKEN:-git}@github.com/${DIST_REPO_NAME}.git
 mkdir $DIST_REPO_DIR
 cd $DIST_REPO_DIR
 git init
-git pull --depth 1 "$DIST_REPO"
+git pull --depth 30 "$DIST_REPO"
 rsync -r --exclude=.git --delete ../$OUTPUT_DIR/ ./
 
 git add -A
