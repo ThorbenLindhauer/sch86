@@ -9,6 +9,7 @@ layout: post
 ---
 Peter hat den Bezirkspokal der C-Klasse dominiert und sich souverän gegen seine drei Konkurrenten vom SK durchgesetzt.
 <!-- continue -->
+
 In der ersten Runde, die zeitgleich das Halbfinale war, traf er auf Holger Nieder. 
 Nach einer blutleeren Eröffnung, wo sich beide Parteien einen Isolani verpasst hatten, die sich auch noch gegenüberstanden, war Peters Gegner nur noch auf Remis aus. 
 
