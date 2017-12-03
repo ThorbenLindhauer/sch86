@@ -9,8 +9,11 @@ layout: post
 ---
 Peter hat den Bezirkspokal der C-Klasse dominiert und sich souverän gegen seine drei Konkurrenten vom SK durchgesetzt.
 <!-- continue -->
-In der ersten Runde, die zeitgleich das Halbfinale war, traf er auf Holger Nieder. Nach einer blutleeren Eröffnung, wo sich beide Parteien einen Isolani verpasst hatten, die sich auch noch gegenüberstanden, war Peters Gegner nur noch auf Remis aus. 
+In der ersten Runde, die zeitgleich das Halbfinale war, traf er auf Holger Nieder. 
+Nach einer blutleeren Eröffnung, wo sich beide Parteien einen Isolani verpasst hatten, die sich auch noch gegenüberstanden, war Peters Gegner nur noch auf Remis aus. 
+
 Peter bewies jedoch eine starke Mittelspielbehandlung (Ganz was Neues - kein Harakiri-Schach kann er ja auch!) und begann, seinen Gegner immer weiter einzuschnüren. Als dieser zwei Tempi zu viel auf seinen passiven Läufer verschwendete, gelang es Peter, die Stellung aufzubrechen und zwei Bauern im Turm+Läufer-Endspiel zu gewinnen.
+
 Obwohl Nieder sich noch zäh wehrte, ließ sich Peter seinen Vorteil nicht mehr nehmen und zog ins Finale ein.
 
 In der zweiten Partie traf Peter mit Schwarz auf Reinhard Reschka, der im Halbfinale etwas überraschend Lothar Lindenblatt ausgeschaltet hatte.
