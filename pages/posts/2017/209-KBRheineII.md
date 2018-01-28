@@ -9,7 +9,7 @@ layout: post # Das muss überall genau so drinstehen
 ---
 **Keine Gefangenen beim ersten Heimsieg gemacht** 
 
-In einem Mannschaftskampf ohne ein einziges Remis konnte sich die Erste mit dem Glück des Tüchtigen gegen die Reserve von Klein-Berlin Rheine mit 5:3 durchsetzen. Die Gäste brachten ein Gastgeschenk für unser Brett 2 mit und Phillip konnte den Nachmittag über noch ein wenig "chillen". In den verbliebenen sieben Partien wurde fast schon Schach aus der Romantik angeboten - und Alex war noch nicht mal beteiligt!
+In einem Mannschaftskampf ohne ein einziges Remis konnte sich die Erste mit dem Glück des Tüchtigen gegen die Reserve von Klein-Berlin Rheine mit 5:3 durchsetzen. Die Gäste brachten ein Gastgeschenk für unser Brett 2 mit und Phillip konnte den Nachmittag über noch ein wenig entspannen. In den verbliebenen sieben Partien wurde fast schon Schach aus der Romantik angeboten - und Alex war noch nicht mal beteiligt!
 <!-- continue -->
 Es blieb einem sichtlich erleichterten Rudolf vorbehalten, nach einem teuren Fingerfehler einen wahren Glanzpunkt zum Endstand von 5:3 beizusteuern. Die weiteren Punkte sicherten Heribert, Arne und Peter. Für Christian, Stefan und Andreas gab es an diesem Tag nichts Zählbares.
 
