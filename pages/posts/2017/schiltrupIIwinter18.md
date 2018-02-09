@@ -1,6 +1,6 @@
 ---
 
-title: Die Zweite geht in den Absteigskampf...
+title: Die Zweite geht in den Abstiegskampf...
 author: PhillipJunk
 date: 2018-02-10 00:00:00
 tags: [Zweite] 
