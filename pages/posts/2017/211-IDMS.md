@@ -8,6 +8,7 @@ layout: post # Das muss überall genau so drinstehen
 
 ---
 **Vierter 5:3-Erfolg in der laufenden Saison** 
+
 Die Erste hat am sechsten Spieltag in einem wahren Blitzmatch – nach drei Stunden war alles vorbei – den nächsten Sieg eingefahren und die Punkteausbeute in der Verbandsklasse auf 8:4 Zähler geschraubt. Im stadtinternen Duell gegen die Erstvertretung der Indischen Dame profitierten die „frisch aufgestiegenen“ Hiltruper aber von den Personalproblemen, die die Aufstellung der Gastgeber doch arg geschwächt zurückließ.
 <!-- continue -->
 Heribert bekam am ersten Brett spontan den Nachmittag frei und wir gingen mit einer 1:0-Führung ins Match gegen das Schlusslicht. Psychologisch gut für uns, dass wir nicht viel zu verlieren hatten, denn wenn Indische Dame auch nur ansatzweise ihre Stamm-Acht hätten aufbieten können, wären wir krasser Außenseiter gewesen. Dementsprechend wurde unsererseits im Vorfeld auch hart daran gearbeitet, dass die nominell stärkste Mannschaft an den Start gehen konnte.
