@@ -12,11 +12,11 @@ Die Zweite hat gegen ZuZ Everswinkel eine knappe 2,5:3,5 Niederlage hinnehmen m�
 
 Der Mannschaftskampf begann mit einigem Licht. Rolf überspielte seinen Gegner schon in der Eröffnung und erreichte massiven Raumvorteil, den er später zu einem Qualitätsgewinn ummünzen konnte. Nach einiger Feinarbeit gab es kein Entkommen mehr und Rolf fuhr den Sieg ein.
 
-Ebenso einen guten Tag erwischt hatte Christian. Aus ruhiger Eröffnung und Mittelspiel entstand ein Endspiel, in dem Christian einen vorgeschobenen Zentralbauern über behalten hatte. Diesen verteidigte er mit der nötigen Ruhe und Gelassenheit, sodass er im Turmendspiel den Bauern bis auf die siebte Reihe bekam und seinen Wert auf den eines Turmes steigerte. Dies überzeugte den Gegner hinreichend zu Christains Sieg.
+Ebenso einen guten Tag erwischt hatte Christian. Aus ruhiger Eröffnung und Mittelspiel entstand ein Endspiel, in dem Christian einen vorgeschobenen Zentralbauern über behalten hatte. Diesen verteidigte er mit der nötigen Ruhe und Gelassenheit, sodass er im Turmendspiel den Bauern bis auf die siebte Reihe bekam und seinen Wert auf den eines Turmes steigerte. Dies überzeugte den Gegner hinreichend zu Christians Sieg.
 
-Doch wo Licht ist, ist auch Schatten. Egon stellte früh einen Bauern ein und bekam de facto nichts dafür. Sein Kontrahent kapitalisierte schnell auf diesem Vorteil und baute seinen materiellen Vorteil so massiv aus, dass Egon aufgab.
+Doch wo Licht ist, ist auch Schatten. Egon stellte früh einen Bauern ein und bekam de facto nichts dafür. Sein Kontrahent kapitalisierte schnell auf diesen Vorteil und baute seinen materiellen Vorteil so massiv aus, dass Egon aufgab.
 
-Auch Kalle blieb glücklos. Nach stark behandelter Eröffnung, die v.a. von Figurentäuschen geprägt war, entstand ein trockenes Schwerfigurenendspiel. Ein unnötiger Bauernverlust erschwerte die Aufgabe des Remis zwecks Sicherung des Mannschaftspunkts allerdings massiv. Kalles Gegner erkannte seine Chance und schaffte es, trotz guter Verteidigung die Stellung zu verwerten.
+Auch Kalle blieb glücklos. Nach stark behandelter Eröffnung, die vor allem von Figurentäuschen geprägt war, entstand ein trockenes Schwerfigurenendspiel. Ein unnötiger Bauernverlust erschwerte die Aufgabe des Remis zwecks Sicherung des Mannschaftspunkts allerdings massiv. Kalles Gegner erkannte seine Chance und schaffte es, trotz guter Verteidigung die Stellung zu verwerten.
 
 Steffen hatte derweil an einem nominell klar favorisierten Gegner zu nagen. Auch er kam gut aus der Eröffnung, sogar mit aktiveren Figuren, doch im Mittelspiel zeigte sich leider der Klassenunterscheid in puncto Taktik. Eine dreizügige Kombination kostete Steffen zwei Bauern und in der Folge die Partie. 
 
