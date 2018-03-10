@@ -16,7 +16,7 @@ Ebenso einen guten Tag erwischt hatte Christian. Aus ruhiger Eröffnung und Mitt
 
 Doch wo Licht ist, ist auch Schatten. Egon stellte früh einen Bauern ein und bekam de facto nichts dafür. Sein Kontrahent kapitalisierte schnell auf diesen Vorteil und baute seinen materiellen Vorteil so massiv aus, dass Egon aufgab.
 
-Auch Kalle blieb glücklos. Nach stark behandelter Eröffnung, die vor allem von Figurentäuschen geprägt war, entstand ein trockenes Schwerfigurenendspiel. Ein unnötiger Bauernverlust erschwerte die Aufgabe des Remis zwecks Sicherung des Mannschaftspunkts allerdings massiv. Kalles Gegner erkannte seine Chance und schaffte es, trotz guter Verteidigung die Stellung zu verwerten.
+Auch Kalle blieb glücklos. Nach stark behandelter Eröffnung, die vor allem von Abtauschen von Figurenpaaren geprägt war, entstand ein trockenes Schwerfigurenendspiel. Ein unnötiger Bauernverlust erschwerte die Aufgabe des Remis zwecks Sicherung des Mannschaftspunkts allerdings massiv. Kalles Gegner erkannte seine Chance und schaffte es, trotz guter Verteidigung die Stellung zu verwerten.
 
 Steffen hatte derweil an einem nominell klar favorisierten Gegner zu nagen. Auch er kam gut aus der Eröffnung, sogar mit aktiveren Figuren, doch im Mittelspiel zeigte sich leider der Klassenunterscheid in puncto Taktik. Eine dreizügige Kombination kostete Steffen zwei Bauern und in der Folge die Partie. 
 
