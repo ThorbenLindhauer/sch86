@@ -13,8 +13,8 @@ Endtabelle:
 1. Phillip    7/7
 2. Heribert   6/7
 3. Christian  4/7
-4. Stefan     3,5/7
-5. Steffen    3/7
+3. Steffen    4/7
+5. Stefan     3,5/7
 6. Andre      2/7
 7. Daniel     1,5/7
 8. Kalle      0/7
