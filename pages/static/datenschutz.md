@@ -71,3 +71,4 @@ Diese Webseite verwendet keine Cookies.
 
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
 
+<em>Die Datenschutzerklärung wurde mit dem </em><a href="https://www.activemind.de/datenschutz/datenschutzhinweis-generator/" target="_blank" rel="noopener"><em>Datenschutzerklärungs-Generator der activeMind AG</em></a> erstellt.
