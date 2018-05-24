@@ -7,9 +7,9 @@ layout: static
 
 Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
-Thorben Lindhauer
-Linckensstraße 25
-48165 Münster
+Thorben Lindhauer  
+Linckensstraße 25  
+48165 Münster  
 sch86@muenster.org
 
 ### Ihre Betroffenenrechte
