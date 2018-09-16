@@ -1,5 +1,5 @@
 language: node_js
-node_js: '0.10'
+node_js: '8.12.0'
 env:
   global:
   - secure: XjBf3YUyPyBfes2XqIABmHdiwIA+d5qz2YRpTm8tdxfUJlf88Kpo7bOGInaSG2X1NJ1Lt3iTAIlgB5E2bLn45BDI0qlO05WITHn1sZ+ETm54EmDxk655dnmz6pYK73yHLUnUYFT7tM6uDbRyz7hKunruY4unAeLCB1aL7ymo+SE=
