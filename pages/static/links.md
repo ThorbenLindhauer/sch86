@@ -29,5 +29,5 @@ Hier einige interessante Links aus der Schachwelt des Münsterlands:
 * [Ergebnisdienst Erste Mannschaft 2018/2019](http://nrw.svw.info/ergebnisse/show/2018/2517/)
 * [Ergebnisdienst Zweite Mannschaft 2018/2019](http://nrw.svw.info/ergebnisse/show/2018/2495/)
 * [DWZ-Auswertung Münsterland](http://www.ckamp.privat.t-online.de/start.htm)
-* [Deutscher Schachbund](http://www.schachbund.de)
+* [Deutscher Schachbund](http://www.schachbund.de) 
 
