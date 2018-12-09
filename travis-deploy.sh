@@ -3,7 +3,7 @@ SOURCE_REPO_NAME="ThorbenLindhauer/sch86"
 
 OUTPUT_DIR="dist"
 DIST_REPO_DIR="sch86-dist"
-GIT_FTP_DIR="git-ftp/dist/bin"
+GIT_FTP_DIR="git-ftp/dist"
 
 SOURCE_COMMIT=`git log --format="%H" -n 1`
 
