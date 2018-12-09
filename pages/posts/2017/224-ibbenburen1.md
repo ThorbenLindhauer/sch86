@@ -2,8 +2,8 @@
 
 title: "4:4 - Verdienter Lohn nach fast sechs Stunden" # das wird der Titel der Seite, am besten in Anführungszeichen (z.B. wenn er Sonderzeichen enthält).
 author: ElZorro # Name des Autors, der nachher mit dem Artikel auf der Seite angezeigt wird; das ist unabhängig vom github-Benutzernamen
-date: 2018-11-18 10:45:00 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
-tags: [ News Verein, Erste ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
+date: 2018-12-09 06:45:00 # im Format: Jahr-Monat-Tag Stunde:Minute:Sekunde, die Uhrzeit ist optional
+tags: [  Erste ] # Die eckigen Klammern sind wichtig. Mehrere Tags werden durch Kommas separiert
 layout: post # Das muss überall genau so drinstehen
 
 ---
