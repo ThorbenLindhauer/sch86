@@ -13,7 +13,7 @@ Hier einige interessante Links aus der Schachwelt des Münsterlands:
 * [Schachfreunde Beelen](http://www.schachfreunde-beelen.de)
 * [Schachclub Sendenhorst](http://www.schachclub-sendenhorst.de)
 * [Indische Dame Münster](http://www.muenster.org/indische-dame)
-* [Schachfreunde Telgte](http://www.schachfreunde-telgte.de)
+* [Schachfreunde Telgte](https://sf-telgte.de/)
 * [Schachfreunde Greven](http://www.sf-greven.de)
 * [Schach Nienberge](http://www.schach-nienberge.de)
 * [ASV Senden](http://www.asv-senden.de/schach)
