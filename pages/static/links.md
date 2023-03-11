@@ -28,6 +28,6 @@ Hier einige interessante Links aus der Schachwelt des Münsterlands:
 
 * [Ergebnisdienst Erste Mannschaft 2022/2023](https://nrw.svw.info/ergebnisse/show/2022/4445/)
 * [Ergebnisdienst Zweite Mannschaft 2022/2023](https://nrw.svw.info/ergebnisse/show/2022/4081/)
-* [DWZ-Auswertung Münsterland](http://www.ckamp.privat.t-online.de/start.htm
+* [DWZ-Auswertung Münsterland](http://www.ckamp.privat.t-online.de/start.htm)
 * [Deutscher Schachbund](http://www.schachbund.de) 
 
