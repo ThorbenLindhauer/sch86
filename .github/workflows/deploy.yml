@@ -1,0 +1,28 @@
+name: Deploy content
+on: [push, workflow_dispatch]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install -g grunt-cli
+      - run: npm install
+      - run: grunt build
+      - name: Install git-ftp
+        run: |
+           chmod +x ./install-git-ftp.sh
+           ./install-git-ftp.sh
+        shell: bash
+      - name: Deploy site
+        run: |
+           chmod +x ./deploy.sh
+           ./deploy.sh
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_URL: ${{ secrets.FTP_URL }}
