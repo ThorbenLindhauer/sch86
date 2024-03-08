@@ -7,11 +7,22 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     copy: {
-      files: {
-        cwd: 'assets/img/',
-        src: '**/*',
-        dest: 'dist/assets/img/', 
-        expand: true
+      main: {
+        files: [
+          {
+            cwd: 'assets/img/',
+            src: '**/*',
+            dest: 'dist/assets/img/',
+            expand: true
+          },
+          {
+            cwd: 'assets/root/',
+            src: '**/*',
+            dest: 'dist/',
+            dot: true,
+            expand: true
+          }
+        ]
       }
     },
     less:  {
