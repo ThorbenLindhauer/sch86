@@ -11,11 +11,6 @@ jobs:
       - run: npm install -g grunt-cli
       - run: npm install
       - run: grunt build
-      - name: Install git-ftp
-        run: |
-           chmod +x ./install-git-ftp.sh
-           ./install-git-ftp.sh
-        shell: bash
       - name: Deploy site
         run: |
            chmod +x ./deploy.sh
@@ -23,6 +18,3 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          FTP_USER: ${{ secrets.FTP_USER }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-          FTP_URL: ${{ secrets.FTP_URL }}

@@ -3,7 +3,6 @@ SOURCE_REPO_NAME="ThorbenLindhauer/sch86"
 
 OUTPUT_DIR="dist"
 DIST_REPO_DIR="sch86-dist"
-GIT_FTP_DIR="git-ftp/dist"
 
 SOURCE_COMMIT=`git log --format="%H" -n 1`
 
@@ -24,7 +23,6 @@ git status -s
 git commit -m "generate site from ${SOURCE_REPO_NAME}@${SOURCE_COMMIT}"
 git remote add origin "$DIST_REPO"
 git push -q origin master
-../$GIT_FTP_DIR/git-ftp push -u $FTP_USER -p $FTP_PASSWORD -v $FTP_URL 
 
 cd -
 
