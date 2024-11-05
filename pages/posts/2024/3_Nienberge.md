@@ -14,9 +14,9 @@ Die neue Saison startet etwas unglücklich für die zweite Mannschaft. In der er
 
 Das  fünfte Brett blieb frei, also 0 : 1.
 
-Heiner musste sich seinem starken Gegner schon früh geschlagen geben. (0 : 2)
+Heiner spielte am 6. Brett mit Schwarz. Schon im 5. Zug unterlief ihm eine strategische Ungenauigkeit, die sein junger Gegner in der Folge konsequent nutzte. In der Folge kam er überhaupt nicht ins Spiel und war ständig unter Druck.  Das durchdachte Angriffsspiel seines starken Kontrahenten führte dann schon im 19. Zug (Matt) zu einem schnellen Ende der einseitigen Partie. Vielleicht wäre die Partie ganz anders verlaufen, wenn Heiner im 5. Zug den Bauern ein Feld weiter gezogen hätte. (0 : 2)
 
-Die Partie von Hans endete mit einem plötzlichen Matt. (0 : 3)
+Hans hatte Weiß und geriet dank der passiven Spielweise seines Gegners schon bald in Vorteil. Obwohl er an einer Stelle die stärkste Fortsetzung übersah, blieb es ein "Spiel auf ein Tor" mit deutlichem Stellungsvorteil (laut Computeranalyse ca. 2 Bauerneinheiten). Im 23. Zug hatte er dann leider einen "Blackout", als er mit der Dame attackierte und dadurch die Deckung seines angegriffenen Turmes aufgab, was zum abrupten Ende der Partie führte. (0 : 3)
 
 Kalle musste gegen den Mannschaftskapitän der Gegner antreten. In einer ruhigen und weitgehend ausgeglichenen Partie kam es schon recht früh zu einer Zugwiederholung und beide Opponenten einigten auf Remis. (0,5 : 3,5)
 
