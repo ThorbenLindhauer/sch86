@@ -24,7 +24,7 @@ Steffen bekam es als Weißer mit der französischen Verteidigung zu tun. Nach 13
 
 In einer unregelmäßigen Damenbauerneröffnung griff Kalle nach der langen Rochade seines Gegners mit allen Damenflügelbauern vehement an. Der weiße König flüchtete wieder zurück zum Königsflügel. Das gab Kalle die Möglichkeit zu einem Schwerfigurenangriff in der Mitte. Ein Figurenopfer konnte alsbald durch eine Springergabel ausgeglichen werden. Danach wurde Kalles Angriff unwiderstehlich und er gewann die Partie. (4 : 2)
 
-Ein weiterer schöner Sieg in einer erfolgreichen Saison. Sogar die Übernahme der Tabellenführung ist noch möglich.
+Ein weiterer schöner Sieg in einer erfolgreichen Saison. Sogar die Übernahme der Tabellenführung ist noch möglich. 
 
 <figure>
     <img src="{{ relative('assets/img/2025/8_Billerbeck.jpg') }}" alt="D" width="50%"/>
