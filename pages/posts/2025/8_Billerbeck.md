@@ -3,7 +3,7 @@
 title: "Sieg nach holprigem Beginn"
 author: Jürgen Schmidt
 date: 2025-05-19 22:00:00
-tags: [ Erste ]
+tags: [ Zweite ]
 layout: post
 
 ---
@@ -20,7 +20,7 @@ Hans hatte in einer Damenbauerneröffnung die schwarzen Steine. Es kam zu einer 
 
 Christian spielte bis zum Turmendspiel eine ruhige, komplett ausgeglichene Partie. Zum Schluss hatte er einen Mehrbauern auf dem Damenflügel, sein Gegner einen Mehrbauern auf dem Königsflügel. Nach dem Turmabtausch stand Christians König in der Mitte ein wenig besser, und das gab ihm die Möglichkeit, seinen Mehrbauern in einen Freibauern zu verwandeln. Während der gegnerische König dorthin eilte, um den Freibauern aufzuhalten, konnte Christians König die feindlichen Königsflügelbauern abräumen, einen weiteren Freibauern bilden, und die Partie entscheiden. (2 : 2)
 
-Steffen bekam es als Weißer mit der französischen Verteidigung zu tun. Nach 13 Zügen Theorie griff zuerst sein Gegner fehl und büßte einen Zentrumsbauern ein. In einem komplizierten Mittelspiel verirrte sich ein gegnerischer Springer und konnte erobert werden; den taktischen Rettungsplan sah nur die Maschine nach dem Spiel. Nun vermied Steffen Remis durch ewiges Schach, forcierte seinen Freibauern im Zentrum und zwang so seinen Gegner zur Aufgabe. (3 : 2)
+Steffen wählte als Weißer das Mittelgambit, Schwarz entwickelte seinen Damenspringer nach c6, und zog ihn nach weißem d4- d5 nach b8 zurück. So bekam Steffen schon früh Entwicklungsvorsprung und Raumvorteil. Diesen Vorteil konnte er nach beiderseitigen Rochaden in den Gewinn des h-Bauern ummünzen. Durch weiteres Druckspiel konnte er in Verbindung mit Damentausch erst eine Qualität gewinnen, und anschließend seinen Turm gegen zwei Springer eintauschen. So bekam er eine ganze Mehrfigur, die er wiederum gegen drei Mehrbauern eintauschte. Im jetzt entstandenen Endspiel forcierte er die Bauern, und erhielt zwei verbundene Freibauern. Als die Umwandlung zur Dame nicht mehr aufzuhalten war, gab sein Gegner auf. (3 : 2)
 
 In einer unregelmäßigen Damenbauerneröffnung griff Kalle nach der langen Rochade seines Gegners mit allen Damenflügelbauern vehement an. Der weiße König flüchtete wieder zurück zum Königsflügel. Das gab Kalle die Möglichkeit zu einem Schwerfigurenangriff in der Mitte. Ein Figurenopfer konnte alsbald durch eine Springergabel ausgeglichen werden. Danach wurde Kalles Angriff unwiderstehlich und er gewann die Partie. (4 : 2)
 
